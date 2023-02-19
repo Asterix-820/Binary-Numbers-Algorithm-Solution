@@ -1,0 +1,14 @@
+C:\Users\Decagon\Desktop\My Projects\GenerateBinaryNums\GenerateBinaryNums\bin\Debug\netcoreapp3.1\GenerateBinaryNums.exe
+C:\Users\Decagon\Desktop\My Projects\GenerateBinaryNums\GenerateBinaryNums\bin\Debug\netcoreapp3.1\GenerateBinaryNums.deps.json
+C:\Users\Decagon\Desktop\My Projects\GenerateBinaryNums\GenerateBinaryNums\bin\Debug\netcoreapp3.1\GenerateBinaryNums.runtimeconfig.json
+C:\Users\Decagon\Desktop\My Projects\GenerateBinaryNums\GenerateBinaryNums\bin\Debug\netcoreapp3.1\GenerateBinaryNums.runtimeconfig.dev.json
+C:\Users\Decagon\Desktop\My Projects\GenerateBinaryNums\GenerateBinaryNums\bin\Debug\netcoreapp3.1\GenerateBinaryNums.dll
+C:\Users\Decagon\Desktop\My Projects\GenerateBinaryNums\GenerateBinaryNums\bin\Debug\netcoreapp3.1\GenerateBinaryNums.pdb
+C:\Users\Decagon\Desktop\My Projects\GenerateBinaryNums\GenerateBinaryNums\obj\Debug\netcoreapp3.1\GenerateBinaryNums.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\My Projects\GenerateBinaryNums\GenerateBinaryNums\obj\Debug\netcoreapp3.1\GenerateBinaryNums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Desktop\My Projects\GenerateBinaryNums\GenerateBinaryNums\obj\Debug\netcoreapp3.1\GenerateBinaryNums.AssemblyInfoInputs.cache
+C:\Users\Decagon\Desktop\My Projects\GenerateBinaryNums\GenerateBinaryNums\obj\Debug\netcoreapp3.1\GenerateBinaryNums.AssemblyInfo.cs
+C:\Users\Decagon\Desktop\My Projects\GenerateBinaryNums\GenerateBinaryNums\obj\Debug\netcoreapp3.1\GenerateBinaryNums.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\My Projects\GenerateBinaryNums\GenerateBinaryNums\obj\Debug\netcoreapp3.1\GenerateBinaryNums.dll
+C:\Users\Decagon\Desktop\My Projects\GenerateBinaryNums\GenerateBinaryNums\obj\Debug\netcoreapp3.1\GenerateBinaryNums.pdb
+C:\Users\Decagon\Desktop\My Projects\GenerateBinaryNums\GenerateBinaryNums\obj\Debug\netcoreapp3.1\GenerateBinaryNums.genruntimeconfig.cache
